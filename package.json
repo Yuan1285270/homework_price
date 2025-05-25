@@ -1,0 +1,15 @@
+{
+  "name": "gpt-price-tracker",
+  "version": "1.0.0",
+  "description": "追蹤 GPT 相關價格的網頁與 API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "body-parser": "^1.20.2"
+  }
+}
