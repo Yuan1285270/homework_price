@@ -1,4 +1,4 @@
-# 📉 Homework Price Tracker
+# 📉 Price Tracker
 
 A web application project to track and analyse price changes for consumer goods.  
 This tool lets you input product information, record price over time, and query historical trends.
